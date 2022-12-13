@@ -1,5 +1,5 @@
 # SEJA BEM VINDO
-# Android Software Enginner <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
+# Mobile Software Enginner
           
 <div align="center">
   <a href="https://github.com/Lukazi19">
